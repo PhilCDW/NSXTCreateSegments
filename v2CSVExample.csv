@@ -1,0 +1,2 @@
+Segment_Name,VLAN_ID,Uplink_Policy,VLAN Type
+Example,99,Active-Active,Access
